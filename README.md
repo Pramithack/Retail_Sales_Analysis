@@ -39,7 +39,7 @@ Built an interactive dashboard with:
 ---
 
 ## 📊 Dashboard Preview
-![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](Dashboard.png)
 
 ---
 
