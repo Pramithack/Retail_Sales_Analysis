@@ -71,6 +71,7 @@ By combining Python for data cleaning and analysis with Power BI for visualizati
 - Understand seasonal trends and sales fluctuations
 - Optimize pricing, discounts, and inventory management
 - Make data-driven strategic decisions to boost profitability
+
 This project demonstrates how effective data analytics can transform raw data into meaningful insights that support better retail strategy and performance.
 
 
