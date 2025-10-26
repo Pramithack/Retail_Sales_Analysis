@@ -15,7 +15,7 @@ This project showcases end-to-end data analysis — from data cleaning and prepr
 ---
 
 
-### Install Dependencies
+### Install Required Libraries
 
 ```
 pip install pandas matplotlib seaborn openpyxl
