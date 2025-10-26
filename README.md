@@ -15,6 +15,11 @@ This project showcases end-to-end data analysis — from data cleaning and prepr
 ---
 
 
+### Install Dependencies
+
+```
+pip install pandas matplotlib seaborn openpyxl
+```
 
 
 ## ⚙️ Project Workflow
