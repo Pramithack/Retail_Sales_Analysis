@@ -13,6 +13,12 @@ This project showcases end-to-end data analysis — from data cleaning and prepr
 - **Dataset:** Superstore Retail Sales Data (~10,000 records)
 
 ---
+## 📦 Install Required Libraries
+Run the following command in your terminal or VS Code:
+```bash
+pip install pandas matplotlib seaborn openpyxl
+===
+
 
 ## ⚙️ Project Workflow
 
